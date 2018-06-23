@@ -1,2 +1,0 @@
-# LifeCycleAPI
-Created with CodeSandbox
